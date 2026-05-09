@@ -43,8 +43,9 @@ SQL file included: `sql-queries.sql`
 ---
 
 ## 🛠 Tools & Technologies Used
-
+- Python
 - SQL
+- Ms Excel
 - Power BI
 - DAX
 - Data Modeling
@@ -65,4 +66,4 @@ SQL file included: `sql-queries.sql`
 ## 📌 Developed By
 
 Saurabh  
-Power BI Developer  
+Data Analyst
