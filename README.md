@@ -1,4 +1,4 @@
-# Blinkit Sales Dashboard – SQL & Power BI Project
+# Blinkit Sales Dashboard – Exce, Python, SQL & Power BI Project
 
 ![Dashboard Overview](dashboard-overview.png)
 
